@@ -1,0 +1,15 @@
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\bin\Debug\Tip calculator.exe.config
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\bin\Debug\Tip calculator.exe
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\bin\Debug\Tip calculator.pdb
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator.csproj.AssemblyReference.cache
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\MainWindow.g.cs
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\App.g.cs
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator_MarkupCompile.cache
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator_MarkupCompile.lref
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\MainWindow.baml
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator.g.resources
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip_calculator.Properties.Resources.resources
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator.csproj.GenerateResource.cache
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator.csproj.CoreCompileInputs.cache
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator.exe
+C:\Users\Andrey\source\repos\Tip calculator\Tip calculator\obj\Debug\Tip calculator.pdb
